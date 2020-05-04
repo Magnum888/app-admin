@@ -1,2 +1,2 @@
 # app-admin
-Simple React App Admin
+Simple React App Admin init
