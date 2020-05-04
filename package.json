@@ -7,7 +7,7 @@
     "react-dom": "^16.4.1",
     "react-scripts": "^2.1.1"
   },
-  "homepage": "https://github.com/Magnum888/app-admin/gh-pages",
+  "homepage": "https://magnum888.github.io/app-admin/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
