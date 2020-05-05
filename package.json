@@ -2,7 +2,13 @@
   "name": "app-admin",
   "version": "1.0.0",
   "private": true,
+  "description": "project admin page",
+  "keywords": [
+    "admin page"
+  ],
   "dependencies": {
+    "axios": "^0.19.2",
+    "bootstrap": "^4.4.1",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-scripts": "^2.1.1"
